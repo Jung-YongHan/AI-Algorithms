@@ -1,4 +1,4 @@
-# AlexNet-PyTorch |S
+# AlexNet-PyTorch |
 
 ## Installation
     $ git clone https://github.com/ChoAILab/AI-Algorithms.git

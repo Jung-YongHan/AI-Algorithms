@@ -9,7 +9,7 @@
 
 ~~Make a directory of your name inside the Faces folder and upload your 2-3 pictures of you.~~
 ```
-$ python train.py
+$ python train_v2.py
 $ python detect.py
 ```
 

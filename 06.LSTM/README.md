@@ -1,7 +1,7 @@
 # LSTM |
 
 ## Installation
-    $ git clone https://github.com/ChoAILab/AI-Algorithms.git
+    $ git clone https://github.com/JaeHyeukJo/AI-Algorithms.git
     $ cd AI-Algorithms/06.LSTM
 
 ## Run Example

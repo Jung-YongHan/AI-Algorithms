@@ -8,6 +8,6 @@
 
 ## Run Example
 ```
-$ python3 train.py
-$ python3 test.py
+$ python train.py
+$ python test.py
 ```

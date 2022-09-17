@@ -8,5 +8,5 @@
 
 ## Run Example
 ```
-$ python3 dcgan.py
+$ python dcgan.py
 ```

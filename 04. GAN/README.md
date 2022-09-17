@@ -7,5 +7,5 @@
 
 ## Run Example
 ```
-$ python3 gan.py
+$ pytho gan.py
 ```

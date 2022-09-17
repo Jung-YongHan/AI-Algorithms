@@ -6,5 +6,5 @@
 
 ## Run Example
 ```
-$ python3 train.py
+$ python train.py
 ```
